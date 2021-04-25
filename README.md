@@ -6,6 +6,12 @@ A follow-up on my Bachelor Thesis Neural Network Project: https://github.com/And
 The purpose of the original Thesis was to pre-train a neural network and differentiate cancer types by investigating duplication of genes. 
 This project will apply state of the art data-enrichment, border-line-SMOTE http://ousar.lib.okayama-u.ac.jp/en/19617
 
+### Pre-training explained with animals:
+
+![image](https://user-images.githubusercontent.com/5594363/115984130-c3513c80-a5a5-11eb-842e-2fb06c40e0bd.png)
+
+
+
 ## Background
 
 Why improve this thesis?
